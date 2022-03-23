@@ -1,5 +1,10 @@
 CodeCraft-2022.zip
 output/
+output/
 .vscode/
 bin/
 build/
+data/
+.DS_Store
+CodeCraft-2022/.DS_Store
+CodeCraft-2022/src/.DS_Store
